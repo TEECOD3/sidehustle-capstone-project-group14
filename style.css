@@ -1,62 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap');
+
 *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
-html{
+
+html {
     font-size: 16px;
     font-family: 'Red Hat Display', sans-serif;
 }
-.background-image{
-    background-image: url('./images/pattern-background-desktop.svg');
-    background-repeat: no-repeat; 
+
+.background{
+    background-image: url(images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
     background-size: contain;
-    height: 100vh;
+    position: absolute;
     width: 100vw;
-    position: relative;2px 2px 2
+    height: 100vh;
+    background-color: rgba(114, 128, 167, 0.4)
 }
 
-.background-image::after{
-    content: '';
-    position: absolute;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    background-color:  hsl(224, 23%, 55%);
-    opacity:.4;
-}
-.card_container{
-    position: absolute;
-    width: 20rem;
-    height: 30rem;
-    background-color:hsl(225, 100%, 98%);
-    z-index: 2;
+.main-container{
+    position: absolute;    
+    background-color:white;
+    border-radius: 20px;
+    width: 350px;
+    height: 500px;
     top: 50%;
-    left:50%;
-    transform: translate(-50% ,-50%);
-    border-radius: 1rem;
+    left: 50%;
+    transform: translate(-50%, -50%);  
 }
 
-.upper-container{
-    height: 30%;
+.vibes-img {
+    background-size: cover;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
 }
-.upper-container img{
-    width:20rem;
-    border-radius: 1rem 1rem 0 0;
-}
-.second_div{
-    margin-top: 2rem;
+
+.content {
     text-align: center;
-    padding:5px;
-}
-.second_div h1{
-    font-size:1.5rem;
-
-}
-.second_div p{
-    margin-top: 0.3rem;
-    padding:0.5rem;
-    font-size: 0.9rem;
+    font-size: 16px;
     color: grey;
+}
+
+.black {
+    color: black;
+}
+
+button {
+    margin: 0 auto;
+}
+
+.plan {
+    margin: 1.3em;
+    background-color: hsl(225, 100%, 98%);
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    color: gray;
+}
+
+.plan a{
+    text-decoration: underline;
+    color: hsl(245, 75%, 52%);
+    padding: 20px;
+}
+.plan a:hover{
+    text-decoration: none;
+}
+
+.plan img{
+    padding: 1.2em;
+}
+
+.cancel {
+    margin: 1.1em;
+    display: flex;
+    background-color: white;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.cancel a {
+    text-decoration: none;
+    color: hsl(225, 100%, 94%);
+}
+
+.payment {
+    margin: 1.1em;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.payment a {
+    text-decoration: none;
+    color: white;
+    background-color: hsl(245, 75%, 52%);
+}
+
+button{
+    display: flex;
+    align-items: center;
+    background-color: hsl(245, 75%, 52%);
+    border-radius: 5px;
+    padding: 5px;
+    padding-left: 20%;
+    padding-right: 20%;
 }
