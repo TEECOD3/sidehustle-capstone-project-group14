@@ -1,2 +1,2 @@
 # sidehustle-capstone-project-group14
-project using pure html and css
+Project using pure HTML and CSS.
