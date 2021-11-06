@@ -26,7 +26,7 @@ html {
     background-color:white;
     border-radius: 20px;
     width: 350px;
-    height: 500px;
+    height: 550px;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);  
@@ -38,60 +38,74 @@ html {
     border-top-left-radius: 20px;
 }
 
-.content {
+.content{
+    margin-top: 2rem;
     text-align: center;
-    font-size: 16px;
+    padding:5px;
+}
+.content h1{
+    font-size:1.5rem;
+    font-weight: 900;
+}
+.content p{
+    margin-top: 0.3rem;
+    padding:0.5rem;
+    font-size: 0.9rem;
     color: grey;
 }
 
-.black {
-    color: black;
-}
-
-button {
-    margin: 0 auto;
-}
-
 .plan {
-    margin: 1.3em;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 10px;
     background-color: hsl(225, 100%, 98%);
     display: flex;
     align-items: center;
     border-radius: 10px;
     color: gray;
+    font-size: 0.8em;
+}
+
+.plan section {
+    color: black;
+    padding-top: 1.3em;
+    font-weight: 700;
+}
+
+.normal{
+    padding-bottom: 1.3em;
+    font-weight: normal;
+    color: grey;
 }
 
 .plan a{
     text-decoration: underline;
     color: hsl(245, 75%, 52%);
-    padding: 20px;
+    margin-top: 50px;
+    padding: 3.5em;
+    font-weight: 700;
 }
 .plan a:hover{
     text-decoration: none;
+    opacity: 0.7;
 }
 
 .plan img{
     padding: 1.2em;
 }
 
-.cancel {
-    margin: 1.1em;
-    display: flex;
-    background-color: white;
-    align-items: center;
-    border-radius: 10px;
-}
-
-.cancel a {
-    text-decoration: none;
-    color: hsl(225, 100%, 94%);
-}
-
 .payment {
-    margin: 1.1em;
-    display: flex;
-    align-items: center;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 20px;
+    padding: 1.1em;
+    background-color: hsl(245, 75%, 52%);
     border-radius: 10px;
+    color:white;
+    font-size: 0.8em;
+    text-align: center;
+    box-shadow: 0px 14px 8px rgb(230, 235, 253);
+    
 }
 
 .payment a {
@@ -100,12 +114,30 @@ button {
     background-color: hsl(245, 75%, 52%);
 }
 
-button{
-    display: flex;
-    align-items: center;
-    background-color: hsl(245, 75%, 52%);
-    border-radius: 5px;
-    padding: 5px;
-    padding-left: 20%;
-    padding-right: 20%;
+.payment:hover {
+    opacity: 0.7;
 }
+
+.cancel {
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 20px;
+    padding: 1.1em;
+    background-color: white;
+    border-radius: 10px;
+    color:grey;
+    font-size: 0.8em;
+    text-align: center;
+}
+
+.cancel a {
+    text-decoration: none;
+    color: grey;
+    font-weight: 900;
+}
+
+.cancel a:hover {
+    text-decoration: none;
+    color: black
+}
+
