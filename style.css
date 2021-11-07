@@ -18,18 +18,9 @@ html {
     position: absolute;
     width: 100vw;
     height: 100vh;
-<<<<<<< HEAD
-<<<<<<< HEAD
-    background-color: rgba(114, 128, 167, 0.4)
-
-=======
-    background-color: rgba(233, 239, 255, 0.9);
->>>>>>> 2f921987b01e4034a0d40b3057e3d2634fc9a57f
-=======
     background-color: rgba(233, 239, 255, 0.8);
     background-color: rgba(114, 128, 167, 0.4)
 
->>>>>>> 77e1c861adf0ba71a47b30fa954c1c3de26fb33b
 }
 
 .main-container{
@@ -40,21 +31,12 @@ html {
     height: 550px;
     top: 50%;
     left: 50%;
-<<<<<<< HEAD
-<<<<<<< HEAD
     transform: translate(-50%, -50%);  
-    box-shadow: 0 4px 20px  gray;
-=======
-    transform: translate(-50%, -50%); 
-    box-shadow: 0px 18px 8px rgba(0, 0, 0, 0.05); 
->>>>>>> 2f921987b01e4034a0d40b3057e3d2634fc9a57f
-=======
-    transform: translate(-50%, -50%);  
->>>>>>> 77e1c861adf0ba71a47b30fa954c1c3de26fb33b
 }
+
 .vibes-img {
     background-size: cover;
-    border-top-right-radius:20px;
+    border-top-right-radius: 20px;
     border-top-left-radius: 20px;
 }
 
@@ -114,9 +96,6 @@ html {
 .plan img{
     padding: 1.2em;
 }
-.plan span{
-    cursor: pointer;
-}
 
 .payment {
     margin-left: 40px;
@@ -128,25 +107,13 @@ html {
     color:white;
     font-size: 0.8em;
     text-align: center;
-<<<<<<< HEAD
-<<<<<<< HEAD
-    box-shadow: 0px 14px 8px rgb(230, 235, 253);
-    cursor: pointer;
-=======
-    box-shadow: 0px 14px 9px rgba(230, 235, 253, 0.87);
-    
->>>>>>> 2f921987b01e4034a0d40b3057e3d2634fc9a57f
-=======
    box-shadow: 0px 20px 9px rgba(230, 235, 253, 0.87);   
->>>>>>> 77e1c861adf0ba71a47b30fa954c1c3de26fb33b
 }
 
 .payment a {
     text-decoration: none;
-    font-weight:bold;
     color: white;
     background-color: hsl(245, 75%, 52%);
-    text-transform: capitalize;
 }
 
 .payment:hover {
@@ -169,7 +136,6 @@ button {
     color:grey;
     font-size: 0.8em;
     text-align: center;
-    cursor: pointer;
 }
 
 .cancel a {
