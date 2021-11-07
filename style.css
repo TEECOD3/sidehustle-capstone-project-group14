@@ -19,6 +19,7 @@ html {
     width: 100vw;
     height: 100vh;
     background-color: rgba(114, 128, 167, 0.4)
+
 }
 
 .main-container{
@@ -30,11 +31,11 @@ html {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);  
+    box-shadow: 0 4px 20px  gray;
 }
-
 .vibes-img {
     background-size: cover;
-    border-top-right-radius: 20px;
+    border-top-right-radius:20px;
     border-top-left-radius: 20px;
 }
 
@@ -93,6 +94,9 @@ html {
 .plan img{
     padding: 1.2em;
 }
+.plan span{
+    cursor: pointer;
+}
 
 .payment {
     margin-left: 40px;
@@ -105,13 +109,15 @@ html {
     font-size: 0.8em;
     text-align: center;
     box-shadow: 0px 14px 8px rgb(230, 235, 253);
-    
+    cursor: pointer;
 }
 
 .payment a {
     text-decoration: none;
+    font-weight:bold;
     color: white;
     background-color: hsl(245, 75%, 52%);
+    text-transform: capitalize;
 }
 
 .payment:hover {
@@ -128,6 +134,7 @@ html {
     color:grey;
     font-size: 0.8em;
     text-align: center;
+    cursor: pointer;
 }
 
 .cancel a {
