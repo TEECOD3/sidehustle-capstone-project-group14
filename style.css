@@ -18,8 +18,12 @@ html {
     position: absolute;
     width: 100vw;
     height: 100vh;
+<<<<<<< HEAD
     background-color: rgba(114, 128, 167, 0.4)
 
+=======
+    background-color: rgba(233, 239, 255, 0.9);
+>>>>>>> 2f921987b01e4034a0d40b3057e3d2634fc9a57f
 }
 
 .main-container{
@@ -27,11 +31,16 @@ html {
     background-color:white;
     border-radius: 20px;
     width: 350px;
-    height: 550px;
+    height: 580px;
     top: 50%;
     left: 50%;
+<<<<<<< HEAD
     transform: translate(-50%, -50%);  
     box-shadow: 0 4px 20px  gray;
+=======
+    transform: translate(-50%, -50%); 
+    box-shadow: 0px 18px 8px rgba(0, 0, 0, 0.05); 
+>>>>>>> 2f921987b01e4034a0d40b3057e3d2634fc9a57f
 }
 .vibes-img {
     background-size: cover;
@@ -101,15 +110,20 @@ html {
 .payment {
     margin-left: 40px;
     margin-right: 40px;
-    margin-top: 20px;
+    margin-top: 30px;
     padding: 1.1em;
     background-color: hsl(245, 75%, 52%);
     border-radius: 10px;
     color:white;
     font-size: 0.8em;
     text-align: center;
+<<<<<<< HEAD
     box-shadow: 0px 14px 8px rgb(230, 235, 253);
     cursor: pointer;
+=======
+    box-shadow: 0px 14px 9px rgba(230, 235, 253, 0.87);
+    
+>>>>>>> 2f921987b01e4034a0d40b3057e3d2634fc9a57f
 }
 
 .payment a {
@@ -124,10 +138,16 @@ html {
     opacity: 0.7;
 }
 
+button {
+    background-color: hsl(245, 75%, 52%);
+    color: white;
+    border: none;
+}
+
 .cancel {
     margin-left: 40px;
     margin-right: 40px;
-    margin-top: 20px;
+    margin-top: 18px;
     padding: 1.1em;
     background-color: white;
     border-radius: 10px;
