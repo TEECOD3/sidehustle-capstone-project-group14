@@ -18,7 +18,9 @@ html {
     position: absolute;
     width: 100vw;
     height: 100vh;
+    background-color: rgba(233, 239, 255, 0.8);
     background-color: rgba(114, 128, 167, 0.4)
+
 }
 
 .main-container{
@@ -82,8 +84,9 @@ html {
     text-decoration: underline;
     color: hsl(245, 75%, 52%);
     margin-top: 50px;
-    padding: 3.5em;
-    font-weight: 700;
+    padding: 4.6em;
+    font-size: 0.9em;
+    font-weight: 900;
 }
 .plan a:hover{
     text-decoration: none;
@@ -104,8 +107,7 @@ html {
     color:white;
     font-size: 0.8em;
     text-align: center;
-    box-shadow: 0px 14px 8px rgb(230, 235, 253);
-    
+   box-shadow: 0px 20px 9px rgba(230, 235, 253, 0.87);   
 }
 
 .payment a {
@@ -127,9 +129,9 @@ button {
 .cancel {
     margin-left: 40px;
     margin-right: 40px;
-    margin-top: 20px;
-    padding: 1.1em;
-    background-color: white;
+    margin-top: 12px;
+   padding: 1.1em;
+    background-color: transparent;
     border-radius: 10px;
     color:grey;
     font-size: 0.8em;
