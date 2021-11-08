@@ -44,7 +44,7 @@ html {
 }
 
 .vibes-img {
-    background-size: cover;
+    width: 375px;
     border-top-right-radius: 20px;
     border-top-left-radius: 20px;
 }
@@ -65,11 +65,9 @@ html {
     font-size: 0.9rem;
     color:var(--desaturated_blue);
 }
- /* plans section */
+ /* plans section styling */
 .plan {
-    margin-left: 40px;
-    margin-right: 40px;
-    margin-top: 10px;
+    margin: 10px 40px 0 40px;
     background-color:var( --very_pale);
     display: flex;
     align-items: center;
@@ -78,7 +76,7 @@ html {
     font-size: 0.8em;
 }
 
-.plan section {
+.plan div {
     color:var(--dark_blue);
     padding-top: 1.3em;
     font-weight: 700;
@@ -109,7 +107,8 @@ html {
     padding: 1.2em;
 }
 
-.payment {
+/* payment styling */
+.payment-btn {
     margin-left: 40px;
     margin-right: 40px;
     margin-top: 20px;
@@ -120,16 +119,10 @@ html {
     font-size: 0.8em;
     font-weight: 700;
     text-align: center;
-    box-shadow: 0px 20px 9px  var(--very_pale);   
+    box-shadow: 0px 20px 9px  var(--light_blue_shads);   
 }
 
-#clickable-box {
-    text-decoration: none;
-    color:var(--very_pale);
-    background-color:var(--Bright_blue);
-}
-
-.payment:hover {
+.payment-btn:hover {
     opacity: 0.7;
     box-shadow: 0px 20px 9px  var(--pale_blue);
 }
