@@ -13,6 +13,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [What we learnt](#what-we-learnt)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
+  - [Live link](#live-link)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgments)
 
@@ -25,7 +26,7 @@ Users should be able to:
 - Build a replica of the work given
 
 ### Screenshot
-![](./screenshot.jpg)
+![](./projectscreenshot.png)
 
 
 
@@ -40,7 +41,8 @@ Different members in the team committed different parts of the project to make i
   
 ### What we learnt
 - How to work as a team using github
--
+- Working with CSS
+- How to use media queries 
 
 ### Continued development
 -
@@ -51,9 +53,12 @@ Different members in the team committed different parts of the project to make i
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 
+### Live link
+-https://capstoneprojectgroup14.netlify.app/
+
+
 ## Authors
- Group 14
-- Website - [Add your name here](https://www.your-site.com)
+- Group 14
 - Frontend Mentor - Faruq Abdul Azeez
  
 ## Acknowledgments
