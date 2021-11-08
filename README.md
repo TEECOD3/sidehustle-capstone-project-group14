@@ -31,7 +31,7 @@ Users should be able to:
 
 
 ### Links
-- Live Site URL: [Add live site URL here](https://capstoneprojectgroup14.netlify.app/)
+- Live Site URL: [(https://capstoneprojectgroup14.netlify.app/)]
 
 
 ## Our process
