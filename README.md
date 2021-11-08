@@ -65,8 +65,19 @@ Programming with Mosh - This in-depth Git Youtube tutorial teaches you everythin
 
 
 ## Authors
-- Group 14
-- Frontend Mentor - Faruq Abdul Azeez
+-      GROUP 14
+- Abijo Abimbola Oluwasayo 
+- Olanrewaju Wakilat Adeola  
+- David Temitope 
+- Oluwaseyi Abiodun 
+- Abanum Oliseyenum A.
+- Ann Opare-Akonor
+- Adekunle Agbonhin  
+- Moyinoluwa Babalola 
+- Onyeachonam Daniel 
+- Okeke Onyebuchi Hyacinth 
+- Faruk Oluwaseun 
+- Segun Abolaji 
  
 ## Acknowledgments
 - The entire Group 14 team for working together and productively to make sure everyone did their part. 
