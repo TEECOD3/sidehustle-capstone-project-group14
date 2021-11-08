@@ -12,7 +12,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - [Our process](#our-process)
   - [Built with](#built-with)
   - [What we learnt](#what-we-learnt)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgments)
@@ -22,8 +21,8 @@ Replica project built purely with HTML and CSS
 
 ### The challenge
 Users should be able to:
-- See hover states for interactive elements
-- Build a replica of the work given
+- Build out the Order Summary Card component and get it looking as close to the design as possible.
+- Enable users to see hover states for interactive elements.
 
 ### Screenshot
 ![image](https://github.com/Topshicoder/sidehustle-capstone-project-group14/blob/master/images/finishedprojectscreenshot.png)
@@ -44,12 +43,12 @@ Different members in the team committed different parts of the project to make i
 - CSS hover effects
   
 ### What we learnt
-- How to work as a team using github
-- Working with CSS
-- How to use media queries 
-
-### Continued development
--
+- How to plan out and create efficient project structure and architecture
+- Effective distribution of tasks and responsibilities to team members
+- The basics of GitHub: Creation of repositories, committing, pushing, pulling etc.
+- Familiarization with less common elements and tags
+- How to work with CSS layouts, the Box Model, borders and fonts
+- How to improve design responsiveness with media queries
 
 
 ### Useful resources
@@ -66,8 +65,19 @@ Programming with Mosh - This in-depth Git Youtube tutorial teaches you everythin
 
 
 ## Authors
-- Group 14
-- Frontend Mentor - Faruq Abdul Azeez
+-      GROUP 14
+- Abijo Abimbola Oluwasayo 
+- Olanrewaju Wakilat Adeola  
+- David Temitope 
+- Oluwaseyi Abiodun 
+- Abanum Oliseyenum A.
+- Ann Opare-Akonor
+- Adekunle Agbonhin  
+- Moyinoluwa Babalola 
+- Onyeachonam Daniel 
+- Okeke Onyebuchi Hyacinth 
+- Faruk Oluwaseun 
+- Segun Abolaji 
  
 ## Acknowledgments
 - The entire Group 14 team for working together and productively to make sure everyone did their part. 
