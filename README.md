@@ -36,7 +36,6 @@ Users should be able to:
 
 
 ## Our process
-Different members in the team committed different parts of the project to make it complete,helping each other along the way.
 
 ### Built with
 - Semantic HTML5 markup
