@@ -94,7 +94,7 @@ html {
 
 .plan a{
     text-decoration: underline;
-    color:var(--dark_blue );
+    color:var(--Bright_blue );
     margin-top: 50px;
     margin-left: 85px;
     font-size: 0.9em;
@@ -191,7 +191,7 @@ html {
     .plan a{
         margin-right: 20px;
     }
-    
+
     button{
         font-size: 20px;
     }
