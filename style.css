@@ -143,7 +143,7 @@ html {
     color: black
 }
 
-/*Desktop version width 1440px*/
+/*Devsktop version width 1440px*/
 @media screen and (min-width: 1440px) {
     .main-container{
         width: 1440px;
@@ -160,7 +160,7 @@ html {
         padding: 10px;
         font-size: 2.0rem;
         color: rgb(26, 22, 22);
-        font-family: 'Red Hat Display', sans-serif;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     }
 
     .content p{
