@@ -26,12 +26,12 @@ Users should be able to:
 - Build a replica of the work given
 
 ### Screenshot
-![](./https://github.com/Topshicoder/sidehustle-capstone-project-group14/blob/master/images/finishedprojectscreenshot.png)
+![image](./https://github.com/Topshicoder/sidehustle-capstone-project-group14/blob/master/images/finishedprojectscreenshot.png)
 
 
 
 ### Links
-- Live Site URL: [(https://capstoneprojectgroup14.netlify.app/)]
+- Live Site URL: (https://capstoneprojectgroup14.netlify.app/)
 
 
 ## Our process
