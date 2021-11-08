@@ -26,7 +26,7 @@ Users should be able to:
 - Build a replica of the work given
 
 ### Screenshot
-![image](./https://github.com/Topshicoder/sidehustle-capstone-project-group14/blob/master/images/finishedprojectscreenshot.png)
+![image](https://github.com/Topshicoder/sidehustle-capstone-project-group14/blob/master/images/finishedprojectscreenshot.png)
 
 
 
