@@ -25,7 +25,7 @@ html {
     position: absolute;    
     background-color:white;
     border-radius: 20px;
-    width: 350px;
+    width: 375px;
     height: 560px;
     top: 50%;
     left: 50%;
@@ -83,7 +83,7 @@ html {
     text-decoration: underline;
     color: hsl(245, 75%, 52%);
     margin-top: 50px;
-    margin-left: 60px;
+    margin-left: 85px;
     font-size: 0.9em;
     font-weight: 900;
 }
@@ -143,7 +143,7 @@ html {
     color: black
 }
 
-/*Devsktop version width 1440px*/
+/*Desktop version width 1440px*/
 @media screen and (min-width: 1440px) {
     .main-container{
         width: 1440px;
@@ -160,7 +160,7 @@ html {
         padding: 10px;
         font-size: 2.0rem;
         color: rgb(26, 22, 22);
-        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-family: 'Red Hat Display', sans-serif;
     }
 
     .content p{
@@ -171,9 +171,13 @@ html {
         display: flex;
         background-color: hsl(228, 67%, 88%);
         justify-content: space-between;
-        font-size: 17px;
+        font-size: 0.9em;
     }
-
+    
+    .plan a{
+        margin-right: 20px;
+    }
+    
     button{
         font-size: 20px;
     }
