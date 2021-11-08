@@ -8,12 +8,12 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [Our process](#our-process)
   - [Built with](#built-with)
   - [What we learnt](#what-we-learnt)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-  - [Live link](#live-link)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgments)
 
@@ -29,6 +29,9 @@ Users should be able to:
 ![](./https://github.com/Topshicoder/sidehustle-capstone-project-group14/blob/master/images/finishedprojectscreenshot.png)
 
 
+
+### Links
+- Live Site URL: [Add live site URL here](https://capstoneprojectgroup14.netlify.app/)
 
 
 ## Our process
@@ -50,11 +53,7 @@ Different members in the team committed different parts of the project to make i
 
 ### Useful resources
 - freecodecamp.org - helpful in learning some basic concepts
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-
-### Live link
--https://capstoneprojectgroup14.netlify.app/
+- 
 
 
 ## Authors
