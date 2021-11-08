@@ -19,8 +19,6 @@ html {
     width: 100vw;
     height: 100vh;
     background-color: rgba(233, 239, 255, 0.8);
-    background-color: rgba(114, 128, 167, 0.4)
-
 }
 
 .main-container{
@@ -28,10 +26,11 @@ html {
     background-color:white;
     border-radius: 20px;
     width: 350px;
-    height: 550px;
+    height: 560px;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);  
+    transform: translate(-50%, -50%);
+    box-shadow: 0px 18px 8px rgba(0, 0, 0, 0.05);  
 }
 
 .vibes-img {
@@ -84,7 +83,7 @@ html {
     text-decoration: underline;
     color: hsl(245, 75%, 52%);
     margin-top: 50px;
-    padding: 4.6em;
+    margin-left: 60px;
     font-size: 0.9em;
     font-weight: 900;
 }
@@ -106,11 +105,12 @@ html {
     border-radius: 10px;
     color:white;
     font-size: 0.8em;
+    font-weight: 700;
     text-align: center;
-   box-shadow: 0px 20px 9px rgba(230, 235, 253, 0.87);   
+    box-shadow: 0px 20px 9px rgba(230, 235, 253, 0.87);   
 }
 
-.payment a {
+#clickable-box {
     text-decoration: none;
     color: white;
     background-color: hsl(245, 75%, 52%);
@@ -120,17 +120,11 @@ html {
     opacity: 0.7;
 }
 
-button {
-    background-color: hsl(245, 75%, 52%);
-    color: white;
-    border: none;
-}
-
 .cancel {
     margin-left: 40px;
     margin-right: 40px;
-    margin-top: 12px;
-   padding: 1.1em;
+    margin-top: 10px;
+    padding: 1.1em;
     background-color: transparent;
     border-radius: 10px;
     color:grey;
