@@ -79,4 +79,5 @@ Programming with Mosh - This in-depth Git Youtube tutorial teaches you everythin
 - Segun Abolaji 
  
 ## Acknowledgments
-- Thanks to Lord Sarcastic for taking us on intro to GitHub and to all Group 14 members for their efforts and great intellectual input towards the completion of this project. Special thanks to Sayo, Tope, Olise and Mr. Segun for their enormous contributions, without which the completion of this project would have been almost impossible. Finally, I would like to thank Sidehustle for granting us the opportunity to partake in this internship and making this project possible. Special thanks to our mentors Mr. Faruq Abdulazeez and Mr. Damilare Oyetade whose teachings helped bring us this far.
+- Thanks to Lord Sarcastic for taking us on intro to GitHub and to all Group 14 members for their efforts and great intellectual input towards the completion of this project. Special thanks to Sayo, Tope, Olise and Mr. Segun for their enormous contributions, without which the completion of this project would have been almost impossible. 
+Finally, I would like to thank Sidehustle for granting us the opportunity to partake in this internship and making this project possible. Special thanks to our mentors Mr. Faruq Abdulazeez and Mr. Damilare Oyetade whose teachings helped bring us this far.
