@@ -12,7 +12,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - [Our process](#our-process)
   - [Built with](#built-with)
   - [What we learnt](#what-we-learnt)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgments)
@@ -22,8 +21,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### The challenge
 Users should be able to:
-- See hover states for interactive elements
-- Build a replica of the work given
+- Build out the Order Summary Card component and get it looking as close to the design as possible.
+- Enable users to see hover states for interactive elements.
 
 ### Screenshot
 ![image](https://github.com/Topshicoder/sidehustle-capstone-project-group14/blob/master/images/finishedprojectscreenshot.png)
@@ -43,12 +42,12 @@ Users should be able to:
 - CSS hover effects
   
 ### What we learnt
-- How to work as a team using github
-- Working with CSS
-- How to use media queries 
-
-### Continued development
--
+- How to plan out and create efficient project structure and architecture
+- Effective distribution of tasks and responsibilities to team members
+- The basics of GitHub: Creation of repositories, committing, pushing, pulling etc.
+- Familiarization with less common elements and tags
+- How to work with CSS layouts, the Box Model, borders and fonts
+- How to improve design responsiveness with media queries
 
 
 ### Useful resources
@@ -65,8 +64,19 @@ Programming with Mosh - This in-depth Git Youtube tutorial teaches you everythin
 
 
 ## Authors
-- Group 14
-- Frontend Mentor - Faruq Abdul Azeez
+-      GROUP 14
+- Abijo Abimbola Oluwasayo 
+- Olanrewaju Wakilat Adeola  
+- David Temitope 
+- Oluwaseyi Abiodun 
+- Abanum Oliseyenum A.
+- Ann Opare-Akonor
+- Adekunle Agbonhin  
+- Moyinoluwa Babalola 
+- Onyeachonam Daniel 
+- Okeke Onyebuchi Hyacinth 
+- Faruk Oluwaseun 
+- Segun Abolaji 
  
 ## Acknowledgments
 - Thanks to Lord Sarcastic for taking us on intro to GitHub and to all Group 14 members for their efforts and great intellectual input towards the completion of this project. Special thanks to Sayo, Tope, Olise and Mr. Segun for their enormous contributions, without which the completion of this project would have been almost impossible. Finally, I would like to thank Sidehustle for granting us the opportunity to partake in this internship and making this project possible. Special thanks to our mentors Mr. Faruq Abdulazeez and Mr. Damilare Oyetade whose teachings helped bring us this far.
