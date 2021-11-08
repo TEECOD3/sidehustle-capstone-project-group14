@@ -32,6 +32,7 @@ Users should be able to:
 
 ### Links
 - Live Site URL: (https://capstoneprojectgroup14.netlify.app/)
+-  Solution URL: (https://github.com/Topshicoder/sidehustle-capstone-project-group14)
 
 
 ## Our process
@@ -69,6 +70,6 @@ Programming with Mosh - This in-depth Git Youtube tutorial teaches you everythin
 - Frontend Mentor - Faruq Abdul Azeez
  
 ## Acknowledgments
--The entire Group 14 team for working together and productively to make sure everyone did their part. 
--Lord-sarcastic for taking us through an introductory Git course.
+- The entire Group 14 team for working together and productively to make sure everyone did their part. 
+- Lord-sarcastic for taking us through an introductory Git course.
 
