@@ -8,6 +8,7 @@
     --desaturated_blue: hsl(224, 23%, 55%);
     --dark_blue: hsl(223, 47%, 23%);
     --Bright_blue: hsl(245, 75%, 52%);
+    --light_blue_shads: hsla(223, 47%, 23%, 0.123);
 }
 *{
     padding: 0;
@@ -39,7 +40,7 @@ html {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    box-shadow: 0px 18px 8px rgba(0, 0, 0, 0.05);  
+    box-shadow: 0px 18px 8px var( --light_blue_shads);  
 }
 
 .vibes-img {
