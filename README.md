@@ -18,7 +18,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
-Replica project built purely with HTML and CSS
+- This is a group project focused on the replication of the given image of an Order Summary Card using purely HTML and CSS.
 
 ### The challenge
 Users should be able to:
@@ -70,6 +70,4 @@ Programming with Mosh - This in-depth Git Youtube tutorial teaches you everythin
 - Frontend Mentor - Faruq Abdul Azeez
  
 ## Acknowledgments
-- The entire Group 14 team for working together and productively to make sure everyone did their part. 
-- Lord-sarcastic for taking us through an introductory Git course.
-
+- Thanks to Lord Sarcastic for taking us on intro to GitHub and to all Group 14 members for their efforts and great intellectual input towards the completion of this project. Special thanks to Sayo, Tope, Olise and Mr. Segun for their enormous contributions, without which the completion of this project would have been almost impossible. Finally, I would like to thank Sidehustle for granting us the opportunity to partake in this internship and making this project possible. Special thanks to our mentors Mr. Faruq Abdulazeez and Mr. Damilare Oyetade whose teachings helped bring us this far.
