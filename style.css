@@ -68,7 +68,7 @@ html {
  /* plans section styling */
 .plan {
     margin: 10px 40px 0 40px;
-    background-color:var( --pale_blue);
+    background-color:var( --very_pale);
     display: flex;
     align-items: center;
     border-radius: 10px;
