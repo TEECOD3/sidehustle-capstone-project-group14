@@ -153,43 +153,6 @@ html {
 
 /*Desktop version width 1440px*/
 @media screen and (min-width: 1440px) {
-    .main-container{
-        width: 1440px;
-        height: 900px;
-    }
-
-    .vibes-img{
-        width: 1440px;
-        height: 450px;
-    }
-
-    .content h1{
-        margin: 10px;
-        padding: 10px;
-        font-size: 2.0rem;
-        color: var(--dark_blue);
-        font-family: 'Red Hat Display', sans-serif;
-    }
-
-    .content p{
-        font-size: 18px;
-    }
-
-    .plan{
-        display: flex;
-        background-color:var(--pale_blue);
-        justify-content: space-between;
-        font-size: 0.9em;
-    }
-    
-    .plan a{
-        margin-right: 20px;
-    }
-
-    button{
-        font-size: 20px;
-    }
-
     .payment-btn:hover{
         cursor: pointer;
         transition: 0.3s ease-in-out;
