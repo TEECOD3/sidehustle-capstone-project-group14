@@ -189,7 +189,7 @@ html {
         font-size: 20px;
     }
 
-    .payment:hover{
+    .payment-btn:hover{
         cursor: pointer;
         transition: 0.3s ease-in-out;
         transform: scale(1.02);
